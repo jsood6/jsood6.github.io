@@ -873,8 +873,8 @@ testimonials
 }
 
 #testimonials .item .testimonial-content {
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background:  #BC65E5;
+  background: linear-gradient(145deg, #BC65E5 0%, #7E5FD6 100%);
   margin-left: 60px;
   padding: 40px 30px;
   text-align: center;
@@ -927,8 +927,8 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background:#f6c243;
+  background: linear-gradient(145deg, rgba(244,129,63,1) 0%,#f6c243 100%);
   position: absolute;
 }
 
@@ -944,8 +944,8 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background: #f6c243;
+  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, #f6c243 100%);
   position: absolute;
 }
 
